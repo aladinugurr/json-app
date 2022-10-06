@@ -1,7 +1,14 @@
-.App {
-  text-align: center;
+.App{
+  
 }
-
+.buttons{
+  display: flex;
+}
+button{
+  width: 33vw;
+  height: 40px;
+  cursor: pointer;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
